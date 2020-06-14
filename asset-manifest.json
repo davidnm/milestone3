@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/milestone3/static/css/main.2f16ccb4.chunk.css",
+    "main.js": "/milestone3/static/js/main.aaa3e7c3.chunk.js",
+    "main.js.map": "/milestone3/static/js/main.aaa3e7c3.chunk.js.map",
+    "runtime-main.js": "/milestone3/static/js/runtime-main.adc87aa6.js",
+    "runtime-main.js.map": "/milestone3/static/js/runtime-main.adc87aa6.js.map",
+    "static/js/2.35701d40.chunk.js": "/milestone3/static/js/2.35701d40.chunk.js",
+    "static/js/2.35701d40.chunk.js.map": "/milestone3/static/js/2.35701d40.chunk.js.map",
+    "index.html": "/milestone3/index.html",
+    "precache-manifest.2efb0ee3d8f02558748c701accd8b11f.js": "/milestone3/precache-manifest.2efb0ee3d8f02558748c701accd8b11f.js",
+    "service-worker.js": "/milestone3/service-worker.js",
+    "static/css/main.2f16ccb4.chunk.css.map": "/milestone3/static/css/main.2f16ccb4.chunk.css.map",
+    "static/js/2.35701d40.chunk.js.LICENSE.txt": "/milestone3/static/js/2.35701d40.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.adc87aa6.js",
+    "static/js/2.35701d40.chunk.js",
+    "static/css/main.2f16ccb4.chunk.css",
+    "static/js/main.aaa3e7c3.chunk.js"
+  ]
+}
