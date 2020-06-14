@@ -1,0 +1,8 @@
+.card{
+   min-width: 5vmin;
+   min-height: 12vmin;
+   font-size: 5vmin;
+   padding: 1vmin;
+   border: 1px black solid;
+  
+}

@@ -1,0 +1,22 @@
+nav ul {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+nav ul li{
+    display: block;
+    margin: 0 1vmin;
+    
+}
+
+nav ul li a{
+    text-decoration: none;
+    font-size: 24 px;
+    color: darkgreen;    
+}
+
+nav ul li a.active{
+    text-decoration: underline;
+    color: green;
+}
